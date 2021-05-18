@@ -1,6 +1,6 @@
 👋 Hello there, I'm André! @andvsilva
 
-I am a physicist and I work here as a programmer.
+I am a Physicist, a Physics Teacher and I work here as a programmer.
 
 - 👀 I’m interested in Machine Learning, python, C++.
 - 🌱 I’m currently learning blockchain technology.
