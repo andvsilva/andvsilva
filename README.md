@@ -3,6 +3,7 @@
 I am a Physicist, a Physics Teacher and I work here as a programmer.
 
 - 👀 I’m interested in Data Science, Machine Learning, python, C++.
+  - [x] [python - Digital Innovation One - DIO](https://github.com/andvsilva/CS50-Web-Python-Java) (Certificate)
 - 🌱 I’m currently learning blockchain technology.
   - [x] [Blockchain A-Z: Learn to Build your own Blockchain](https://github.com/andvsilva/blockchain_and_money_MIT/tree/master/course_edemy) (Certificate)
 - 📖 Reading makes me think while keeping me curious.
