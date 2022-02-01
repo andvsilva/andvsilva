@@ -24,11 +24,11 @@ the concepts to build a sound money and wealthy society.
   - [x] Anatomy of the State, Murray Rothbard  (**done**)
   - [x] What Has Government Done to Our Money? Murray N Rothbard -  (**done**) 
   - [x] Saifedean A. - The Fiat Standard (2021) (**work in progress**)
-  - [x] The Law, Frederic Bastiat - 2017 (**work in progress**)
+  - [x] The Law, Frederic Bastiat - 2017 (**done**)
   - [x] Campbell R. Harvey, Ashwin Ramachandran, Joey Santoro - DeFi and the Future of Finance-Wiley (2021)
   - [x] The Theory of Money and Credit, Ludwig Von Mises – 2013
   - Ação Humana: um Tratado de Economia, Ludwig von Mises – 2020
-  - [x] As seis lições, Ludwig von Mises - 2018
+  - [x] As seis lições, Ludwig von Mises - 2018 (**done**)
   - [x] Hans F. Sennholz - Money and Freedom (1985)
   - [x] Jesus Huerta De Soto - Money, Bank Credit, and Economic Cycles (2009)
   - [x] Ludwig von Mises, Murray N. Rothbard, Gottfried Haberler, Friedrich A. Hayek - The Austrian Theory of the Trade Cycle and Other Essays (1996)
