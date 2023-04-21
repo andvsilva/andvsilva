@@ -9,7 +9,7 @@ I believe in freedom and that the property rights are
 the concepts to build a sound money and wealthy society.
 ```
 
-My web page: [andrevsilva](https://andvsilva.github.io/andrevsilva/)
+My web page: [andrevsilva](https://andvsilva.github.io/andrevsilva-dev/)
 
 - 👀 I’m interested in Data Science, Machine Learning, python, C++.
   - [x] [python - Digital Innovation One - DIO](https://github.com/andvsilva/CS50-Web-Python-Java) (Certificate)
