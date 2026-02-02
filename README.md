@@ -20,7 +20,7 @@ My web page: [andrevsilva](https://andvsilva.github.io/andrevsilva-dev/)
   - My documentation about the course Blockchain and Money MIT
     - https://github.com/andvsilva/blockchain_and_money_MIT
 - 📖 Reading makes me think while keeping me curious.
-- [Project - Amazon Fine Food Reviews by @andvsivla](https://github.com/andvsilva/sentiment-analysis-deep-learning/tree/master/amazon_sent)
+- [Project - Amazon Fine Food Reviews by @andvsivla](https://github.com/andvsilva/sentimentAnalysis)
 - [Data-Science-bootcamp - DIO by @andvsilva](https://github.com/andvsilva/Data-Science-bootcamp)
 
 <div>
