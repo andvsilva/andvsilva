@@ -22,6 +22,7 @@ My web page: [andrevsilva](https://andvsilva.github.io/andrevsilva-dev/)
 - 📖 Reading makes me think while keeping me curious.
 - [Project - Amazon Fine Food Reviews by @andvsivla](https://github.com/andvsilva/sentimentAnalysis)
 - [Data-Science-bootcamp - DIO by @andvsilva](https://github.com/andvsilva/Data-Science-bootcamp)
+- [Projeto - Automatização da Correção de Provas](https://github.com/andvsilva/andrevsilva-dev/tree/master/proAI)
 
 <div>
   <a href="https://github.com/andvsilva">
